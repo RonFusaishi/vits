@@ -1,13 +1,10 @@
-Cython
-librosa==0.9.1
+cython
+librosa
 matplotlib
 numpy
+phonemizer
 scipy
 tensorboard
-torch==1.13.1
+torch
 torchvision
 unidecode
-phonemizer
-pyopenjtalk
-protobuf
-tqdm
